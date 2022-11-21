@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"> Heyy! Sou Abner Leal,Desenvolvedor Web Full Stack </h1>
+<h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"> Hey! Sou Abner Leal,Desenvolvedor Web Full Stack </h1>
 
 <br>
 
