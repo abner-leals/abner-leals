@@ -1,4 +1,7 @@
 ### Hi there 👋
+<h1 align="center"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"> Heyy! Sou Abner Leal,Desenvolvedor Web Full Stack </h1>
+
+<br>
 
 <!--
 **abner-leals/abner-leals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
